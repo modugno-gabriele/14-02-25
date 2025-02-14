@@ -11,6 +11,6 @@ while True:
      nome = input("inserisci nome")
      quantità = input("inserisci quantità")
      prezzo = int(input("inserisci prezzo"))
-     contatore = +1
+     contatore = +=1
     inventario[contatore];{ nome:"nome"};{ quantità:"quantità"};{prezzo:"prezzo"}
 print(inventario) 
